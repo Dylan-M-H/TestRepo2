@@ -8,5 +8,5 @@ Last Modified: 21SEP20
 #include <stdio.h>
 
 int main() {
-    printf("Hello World, Again");
+    printf("Hello World, Again\nGoodbye\n");
 }
